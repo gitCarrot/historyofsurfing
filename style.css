@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  margin : 200px 0 100px 0;
+  font-size : 100px;
+  font-family: Zeyada,sans-serif;
+  color : rosybrown;
+}
+
+h2{
+  font-family: Cormorant,sans-serif;
+  text-align: center;
+  font-size : 70px;
+  color : rosybrown;
+}
+
+p{
+  font-family: Spectral,sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin : 0 30px 0 30px;
+  color : rosybrown;
+}
+
+div{
+  text-align: center;
+}
+
